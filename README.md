@@ -2,6 +2,14 @@
 
 Implementation of Nonparametric Forest-Structured Neural Topic Modeling by pytorch.
 
+
+
+## Framework
+![](./imgs/framework.png)
+
+the structure of nFNTM
+
+
 ## Environment
 
 ```
@@ -19,4 +27,19 @@ torchvision==0.2.2
 pip install -r requirements.txt
 bash run.sh
 ```
+## Datasets
+
+![](./imgs/datasets.png)
+
+Statistics of datasets
+
+## Results
+
+![](./imgs/npmi.png) ![](./imgs/ts.png)
+
+
+
+
+
+
 
